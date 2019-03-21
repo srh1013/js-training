@@ -7,6 +7,7 @@
  */
 
 // Your code :
+let sub = (a, b) =>  a - b
 
 //* Begin of tests
 const assert = require('assert')
