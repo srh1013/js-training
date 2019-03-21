@@ -8,6 +8,7 @@
  */
 
 // Your code:
+let isPositive = (i) => (i > 0) ? true : false
 
 
 //* Begin of tests
